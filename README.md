@@ -1,1 +1,1 @@
-[text](D:\Salvar Deste ssd\estudos\LojaCarros\lojacarro\Imagens\Dashboard.png)
+![Dashboard do Projeto](Imagens/Dashboard.png)
