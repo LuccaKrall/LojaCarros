@@ -1,3 +1,5 @@
+# Nome:Lucca Krall Siniciato Casimiro RA:010624058
+# Nome:Vitor Lopes dos Santos RA:010624008
 # Comando para instalar o breeze:
 # -composer require laravel/breeze --dev 
 # -php artisan breeze:install
